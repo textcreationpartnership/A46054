@@ -1,0 +1,348 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ignoramus vindicated in a dialogue between prejudice and indifference touching the duty, power, and proceedings of juries : together with some material points relating thereunto / declared for law by the Right Honourable Sir John Vaughan ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46054</idno>
+            <idno type="STC">Wing I46</idno>
+            <idno type="STC">ESTC R34473</idno>
+            <idno type="EEBO-CITATION">14449595</idno>
+            <idno type="OCLC">ocm 14449595</idno>
+            <idno type="VID">102370</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46054)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102370)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1061:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ignoramus vindicated in a dialogue between prejudice and indifference touching the duty, power, and proceedings of juries : together with some material points relating thereunto / declared for law by the Right Honourable Sir John Vaughan ...</title>
+                  <author>Vaughan, John, Sir, 1603-1674.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Inghall the Elder,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Colophon.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jury --  England.</term>
+               <term>Constitutional history --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:102370:1"/>
+            <pb n="1" facs="tcp:102370:1" rendition="simple:additions"/>
+            <head>Ignoramus VINDICATED, IN A DIALOGUE BETWEEN <hi>Prejudice</hi> and <hi>Indifference.</hi>
+            </head>
+            <head type="sub">Touching the <hi>Duty, Power,</hi> and Proceedings of <hi>JURIES:</hi> Together, with ſome Material Points Relating thereunto, declared for <hi>Law</hi> by the Right Honourable Sir <hi>John Vaughan,</hi> Knight, late Lord Chief Juſtice of the Common Pleas.</head>
+            <sp>
+               <speaker>Indifference.</speaker>
+               <p>HOW go <hi>Cauſes</hi> now adays, Monſieur <hi>Prejudice?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Prejudice.</speaker>
+               <p>Baſely, Roguiſhly, Facti<g ref="char:EOLhyphen"/>ouſly, Whiggiſhly,, <hi>not according to Evidence.</hi> There are a ſort of Folks call'd <hi>Ignoramus-men,</hi> that refuſe ſome times to find <hi>Bills,</hi> though there be <hi>Poſitive Oaths</hi> before them.</p>
+            </sp>
+            <sp>
+               <speaker>Indiff.</speaker>
+               <p>That may be, becauſe perhaps, <hi>Poſiitive Oaths</hi> are not always <hi>true Evidence;</hi> and therefore, for ought I know, theſe Folks may not be ſuch <hi>Diſhoneſt,</hi> or ſuch Ignoramus<g ref="char:EOLhyphen"/>follows as you take them for: But Perſons that have a due regard to their <hi>duty,</hi> and the weight of their Office, where<g ref="char:EOLhyphen"/>in other Mens <hi>Lives,</hi> and their own <hi>Souls</hi> are concern'd, and underſtand themſelves ſo well as to know, That they are
+<pb n="12" facs="tcp:102370:2"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="1" facs="tcp:102370:2" rendition="simple:additions"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="2" facs="tcp:102370:3"/>
+Judges (in ſome reſpect) as <hi>of Law,</hi> as well of Fact.</p>
+            </sp>
+            <sp>
+               <speaker>Pred.</speaker>
+               <p>How, <hi>Juries</hi> Judges <hi>of Law,</hi> that's fine I ſaith?</p>
+            </sp>
+            <sp>
+               <speaker>Indiff.</speaker>
+               <p>How <hi>fine</hi> ſoever you think it, 'tis <hi>true;</hi> I ſay in ſome reſpect: For, <hi>ex facto jus Oritur,</hi> the <hi>Law</hi> ariſes out of, and is complicated with the <hi>Fact;</hi> and no Man can <hi>well and truly try, and true deliverance make,</hi> nor well and truly <hi>Inquire and Preſent</hi> Crimes, without reſpect had to <hi>both</hi> of theſe, and comparing one with the other. 'Tis true, in difficult points Juries may, and ought to crave the <hi>Advice</hi> and Opi<g ref="char:EOLhyphen"/>nion of the <hi>Judgess</hi> and ſo they have oft-times the <hi>Statutes</hi> read to them; and to what purpoſe, if not to judge of them, and compare the matter with them. But in <hi>Common Caſes</hi> he is not fit to be a Grand-Jury-Man, that does not under<g ref="char:EOLhyphen"/>ſtand the Nature of <hi>Offences</hi> by our Laws; and to think that he is bound to find contrary to his <hi>Knowledge</hi> in ſuch Caſes, is Abſurd: As, ſuppoſe a Man ſhould be Indicted of <hi>High-Treaſon,</hi> for that he <hi>Traiterouſly, Maliciouſly moved by the Inſtigation of the Devil,</hi> had, and kept an <hi>Engliſh Bible</hi> in his Houſe: Now let an hundred and fifty people ſwear <hi>poſitively</hi> the <hi>Fact, viz.</hi> That he had ſuch a Book in his Cuſtody, would you, if you were a Grand-Jury-Man, retorn this In<g ref="char:EOLhyphen"/>dictment <hi>Billa vera,</hi> and charge the poor Man upon your Oaths, to anſwer for High Treaſon?</p>
+            </sp>
+            <sp>
+               <speaker>Prej.</speaker>
+               <p>Well! This is nothing to my Buſineſs: There was no doubt or ſcruple in the late Caſes, about matter <hi>of Law;</hi> and though there were <hi>poſitive proofs</hi> as to <hi>Fact,</hi> yet they did not find the <hi>Bills.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Indiff.</speaker>
+               <p>That poſſibly may be, (as I told you but now) be<g ref="char:EOLhyphen"/>cauſe, ſuch <hi>poſitive</hi> proof was <hi>no good Evidence;</hi> for the Ju<g ref="char:EOLhyphen"/>ry are <hi>Judges of Evidence,</hi> or elſe they ſignifie no more than ſome would have them, that is <hi>juſt nothing:</hi> And therefore let Witneſſes be never ſo <hi>Rampantly poſitive;</hi> yet if the Ju<g ref="char:EOLhyphen"/>rors have good and ſufficient Grounds, <hi>not to believe them,</hi> they will, nay they <hi>muſt</hi> remain as <hi>Ignorant</hi> as before, be<g ref="char:EOLhyphen"/>cauſe there comes no credible proof to ſatisfie them (who are upon their <hi>Oaths</hi> as well as the Wineſſes) that the Party is <hi>Guilty</hi> of the Crime charg'd, or ought to be <hi>put to Anſwer</hi> for the ſame. For that in Law is called <hi>EVIDENCE,</hi>
+                  <pb n="3" facs="tcp:102370:3" rendition="simple:additions"/>
+by which we may <hi>Evidere quid ſit Juſtum</hi> plainly ſee what is Juſt, or as <hi>Cook</hi> 1. <hi>Inſtit. fol.</hi> 283 ſaith, it is called <hi>Evidence,</hi> becauſe thereby the matter is to be made <hi>Evident</hi> to the Jury.</p>
+            </sp>
+            <sp>
+               <speaker>Prej.</speaker>
+               <p>Well for all your pratting, I hope to ſee good <hi>Chri<g ref="char:EOLhyphen"/>ſtian</hi> Juries once again amongſt us.</p>
+            </sp>
+            <sp>
+               <speaker>Indiff.</speaker>
+               <p>What do you mean <hi>ſtanding ones,</hi> People that made <hi>a Trade</hi> on't, got a Livelyhood by the <hi>Groats</hi> and <hi>Sixteen Pences,</hi> and now and then a good <hi>Dinner,</hi> or <hi>ſmall preſent</hi> by the by; Fellows that were Indigent in Eſtates as Underſtandings; That <hi>ſlept</hi> over an Evidence, found <hi>Bills of Courſe, Hang'd</hi> or <hi>Sav'd, Pro-Plantiff'd</hi> or <hi>Pro-Defendanted</hi> it by pure chance; Threw <hi>Dice</hi> for their Verdicts, Eſteem'd themſelves <hi>Retorn'd and Sworn</hi> only to be the Courts <hi>Eccho's,</hi> and thought it <hi>piacular</hi> not to en<g ref="char:EOLhyphen"/>cline that way the Judge <hi>Nodded</hi> his Reverend Head.</p>
+            </sp>
+            <sp>
+               <speaker>Prej.</speaker>
+               <p>Better <hi>ſuch</hi> ſay I than <hi>Ignoramus-men;</hi> But I meant, we ſhall have no <hi>Diſſenters</hi> Jury-men, for don't you know, 'tis a late <hi>Rul'd Caſe</hi> that ſuch ought not to be Impannel'd.</p>
+            </sp>
+            <sp>
+               <speaker>Indiff.</speaker>
+               <p>I know no ſuch matter, however for ought I ſee 'tis <hi>all one,</hi> for lately when there was <hi>not one Diſſenter,</hi> there was as much Clamour as if they had been all ſo, nor did I ever hear of any <hi>Law</hi> of <hi>England</hi> that excludes any Prote<g ref="char:EOLhyphen"/>ſtant from being a Jury-man, becauſe he is a <hi>Diſſenter</hi> from or Non-frequenter of <hi>Church Ceremonies,</hi> If qualified with Eſtate and Underſtanding; For at that rate, if <hi>Popery</hi> ſhould ever get uppermoſt, <hi>no Proteſtant at all</hi> would be capable of being a <hi>Jury-man,</hi> becauſe a Non-Conformiſt to <hi>Holy Church;</hi> Old Lawyers tell us, <hi>Vbi Lex non diſtinguit, nec nos diſtingue<g ref="char:EOLhyphen"/>re debemus, we never ought to put a difference, where the Law puts none.</hi> Now if no Statute excludes Proteſtants un<g ref="char:EOLhyphen"/>convict of any Crime, or Diſſenters <hi>(Qua tales)</hi> to ſerve on Juries, I ſhould think we ought to wait at leaſt till an <hi>Act of Parliament</hi> be made to that purpoſe, before we deny them <hi>Liberam Legem,</hi> And to Act otherwiſe in my ſilly O<g ref="char:EOLhyphen"/>pinion ſeems not only unwarrantable, but a daring <hi>Uſurpati<g ref="char:EOLhyphen"/>on</hi> of <hi>Legiſlative</hi> Power, But what ſentiments future Parlia<g ref="char:EOLhyphen"/>ments may have thereof<hi>—Ignoramus.</hi> But I pray what <hi>Reaſon</hi> can be aſſign'd to exclude them.</p>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:102370:4"/>
+               <speaker>Prej.</speaker>
+               <p>Reaſon <hi>ſtout and ſubſtantial,</hi> becauſe <hi>they are Brea<g ref="char:EOLhyphen"/>kers of the Law,</hi> For can it be Rational to ſuffer <hi>one Breaker</hi> of the Law to give a Verdict againſt another Breaker of the Law, for every Verdict of a Grand-Jury is a kind of <hi>Evidence</hi> againſt a Priſoner in order to Tryal or Diſcharge.</p>
+            </sp>
+            <sp>
+               <speaker>Indiff.</speaker>
+               <p>Well then, if becauſe they are <hi>Breakers of the Law,</hi> they muſt be excluded, let all Common <hi>Swearers, Drunkards,</hi> Profaners of the <hi>Lords Day,</hi> &amp;c. be ſhut out, for theſe are <hi>Law-breakers</hi> too. <hi>To ſell Claret</hi> is to Violate the Law Therefore no <hi>Vintner</hi> may be a <hi>Jury man</hi> (if they could not be <hi>Captains</hi> neither, what a ſad caſe were we in!) Beſides, if to be Breakers of the Law diſable men to be Jurors, why ſhould not the ſame take away the <hi>Credibility of a Wit<g ref="char:EOLunhyphen"/>neſs?</hi> So that it ſeems if none give Evidence to a Grand-Jury but ſuch as are <hi>Law-Breakers,</hi> they will have no Reaſon to <hi>Credit</hi> them, and if they do not believe the Evidence, what can they do but return an <hi>Ignoramus?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Prej.</speaker>
+               <p>But how ſhall the Jury-men know the Witneſſes are <hi>Law-Breakers?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Indiff.</speaker>
+               <p>Oh, they have Engins call'd <hi>Interrogatives,</hi> will do that feat, as ſuppoſe a Perſon ſwears <hi>John</hi> a <hi>Stiles</hi> ſpoke ſuch or ſuch <hi>Treaſonable Words,</hi> the Grand-Jury ask <hi>when,</hi> and he names <hi>Four or Five Months ago,</hi> then they demand when he firſt diſcovered it to any <hi>Magiſtrate,</hi> and he ſay, <hi>but Two or Three days ago,</hi> now is it not plain, that here the Witneſs confeſſes himſelf. a <hi>Breaker</hi> of the Law. <hi>viz.</hi> Guilty of Miſpriſion of Treaſon for <hi>concealing of Treaſon</hi> ſo many Months. And was not this the Caſe of <hi>all the Evidence againſt Rouſe?</hi> and in my opinion concealing of <hi>Treaſon</hi> is a greater <hi>Breach of</hi> Law then going to a <hi>Conventicle.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Prej.</speaker>
+               <p>But the Witneſſes had got Pardon?</p>
+            </sp>
+            <sp>
+               <speaker>Indiff.</speaker>
+               <p>All of them had not, beſides tho' a pardon exempt a Man from Puniſhment and render him a <hi>Legal</hi> Witneſs, yet how far it makes him a <hi>Credible</hi> Witneſs, is only in the Breaſt of a Jury.</p>
+            </sp>
+            <sp>
+               <speaker>Prej.</speaker>
+               <p>Why pray was Docter <hi>Oats</hi> and others believ'd a<g ref="char:EOLhyphen"/>gainſt the Papiſts?</p>
+            </sp>
+            <sp>
+               <speaker>Indiff.</speaker>
+               <p>Becauſe his and their Teſtimony was <hi>Back'd</hi> by
+<pb n="5" facs="tcp:102370:4" rendition="simple:additions"/>
+that undeniable Evidence of <hi>Colemans</hi> Papers, <hi>Godfreys</hi> Murder and a thouſand other pregnant Curcumſtances, which makes the Caſe much different from that where peo<g ref="char:EOLhyphen"/>ple of very <hi>ſuſpected Credit,</hi> ſwear the Groſeſt Improbabili<g ref="char:EOLhyphen"/>ties.</p>
+            </sp>
+            <sp>
+               <speaker>Prej.</speaker>
+               <p>But the very ſame Witneſſes had lately been believ'd againſt the Papiſt?</p>
+            </sp>
+            <sp>
+               <speaker>Indiff.</speaker>
+               <p>What then? May not a Man be very Honeſt and <hi>Credible</hi> at one time, and Six Months after by neceſſity, <hi>Suborn. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Malice, or Twenty ways, become a Notorious Villain.</p>
+            </sp>
+            <sp>
+               <speaker>Prej.</speaker>
+               <p>But what proof was there of any ſuch <hi>Change?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Indiff.</speaker>
+               <p>How know you, but the Jury or ſome of them knew it of their own <hi>knowledge,</hi> for I ſhall ſhow you by and by that the Law ſuppoſes the Jury to <hi>know more</hi> of the Wit<g ref="char:EOLhyphen"/>neſſes than the Court does. If one of the Evidence, ſhall in giving his Teſtimony, poſſitively affirm things, which ſome of the Jury of their own knowledge know to be abſolute<g ref="char:EOLhyphen"/>ly <hi>falſe,</hi> can you blame them if they give little Credit to all the reſt that ſuch a Fellow ſhall ſwear? Again the Law ſays, for ſuch a Crime, a Man unleſs he be Proſecuted within ſuch a time, ſhall not ſuffer the <hi>Pains</hi> or <hi>Penalties</hi> that other<g ref="char:EOLhyphen"/>wiſe are awarded, now if after this time elaps'd an Indictment be brought, and Twenty Witneſſes <hi>ſwear</hi> the Crime, and the Jury <hi>believe</hi> them too, yet they ought not to find the <hi>Bill,</hi> becauſe the Law has already acquitted the Party for want of <hi>Proſecution;</hi> which is none of the Grand-Juries fault, And indeed delays in bringing men to Tryal are apt to raiſe a ſtrong ſuſpition that the Evidence is not <hi>Right,</hi> and that the Proſecutor himſelf thinks ſo, For a Trayter ought not to live an <hi>hour;</hi> a Witneſs againſt the Priſoner may dye, and ſo a Traytor eſcape, or a Witneſs my dye that could have ſpoken materially for him, and ſo an Innocent Subject may loſe his life, when he is Guiltleſs. And therefore certainly, a Pro<g ref="char:EOLhyphen"/>ſecutor will never put off a Tryal for Four or Five Months, unleſs he want Witneſſes or the Witneſſes want their Leſſon, which may poſſibly be, for 'tis a difficult matter, eſpecially for an <hi>Iriſh-man</hi> to learn to ſpake <hi>true Engliſh.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Prej.</speaker>
+               <p>
+                  <hi>Iriſhman<g ref="char:punc">▪</g>
+                  </hi> why, what have you to ſay againſt <hi>Iriſh-men?</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="6" facs="tcp:102370:5"/>
+               <speaker>Indiff.</speaker>
+               <p>Nothing, Sir, only I find in <hi>Bakers Chronicle, fol</hi> 347, That the Biſhop of <hi>Roſſe</hi> being queſtioned before Q <hi>Elizabeths</hi> Council for Treaſon, and urg'd with ſomewhat that ſome <hi>Engliſh</hi> Gentlemen had teſtified againſt him: He lovingly requeſted their Lordſhips to give <hi>no Credit</hi> to it; for as much (ſays he) as by a received <hi>Cuſtome,</hi> which hath the force of a <hi>Law,</hi> the Teſtimony of an <hi>Engliſh-man</hi> againſt a <hi>Scotch-man,</hi> or of a <hi>Scot</hi> againſt an <hi>Engliſh-man</hi> is not to be admitted: Now I think there's as much Reaſon for ſuch a Cuſtom againſt an <hi>Iriſh-man,</hi> as againſt a <hi>Scot.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Prej.</speaker>
+               <p>Prethee no more of <hi>Iriſh,</hi> we ſhall have the <hi>Iriſh</hi> Evi<g ref="char:EOLhyphen"/>dence Eves drop us, by and by.</p>
+            </sp>
+            <sp>
+               <speaker>Indiff.</speaker>
+               <p>God ſhield Man; I'le have nothing to do with them, If I can help it, and therefore, becauſe we have hitherto been dull, I'll tell you <hi>a Story.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Prej.</speaker>
+               <p>Ay, do, I love Stories dearly; but eſpecially <hi>Thomp<g ref="char:EOLhyphen"/>ſon-Stories,</hi> and <hi>Obſervator Stories.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Indiff.</speaker>
+               <p>Mine is of neither of thoſe ſorts but an honeſt Country <hi>Calve-ſhire</hi> Story. for it comes from about <hi>Ded ham</hi> in <hi>Eſſex—</hi>There was a <hi>Londoner</hi> that had a Farm thrown upon his Hands, came down with ſeveral of his Friends to Buy Cattle to ſtock it; and there was a farmer (a Rich Jol<g ref="char:EOLhyphen"/>ly Blade, for all he wore a Red <hi>Jacket)</hi> brought him into a publick Field, where was an Herd of <hi>Iriſh Cattle,</hi> and ſome <hi>Engliſh</hi> amongſt them; the <hi>Londoner</hi> and his Companions firſt <hi>handled</hi> the <hi>Engliſh</hi> Cattle, though very gently; for they would ſcarce endure to be touched, which made them ſuſpect they were not <hi>ſound</hi> as they ſhould be: Then they handled one of the <hi>Iriſh</hi> Cattle and found it not onely <hi>Raſ<g ref="char:EOLhyphen"/>cally Lean,</hi> but that it had a kind of baſe Diſeaſe Contracted, as 'tis ſuppoſed by eating ſome <hi>Hired</hi> Paſture, or elſe by feed<g ref="char:EOLhyphen"/>ing amongſt other infected <hi>Iriſh</hi> Cattle: Then they handel<g ref="char:EOLhyphen"/>led a ſecond <hi>Iriſh</hi> Bullock that look'd more luſty, yet had the ſame Diſtemper; and in a word, they perceived that <hi>all the reſt</hi> were Diſeaſed and Rotten within; and inquiring the Reaſon, were told, that one Gaffer <hi>Mouſe</hi> or <hi>Houſe,</hi> or ſuch a kind of Name, had been Herdſman, who not allow<g ref="char:EOLhyphen"/>ing ſo much Paſture, as they crav'd for meer Hunger made
+<pb n="7" facs="tcp:102370:5" rendition="simple:additions"/>
+them leap out of thoſe <hi>ſhort Commons</hi> into the Grounds of one of the Richeſt men of all the Country, and there had ſurfeited themſelves with too greedy feeding. So upon <hi>full view</hi> the <hi>Londoner</hi> and his Friends could not believe there was one <hi>ſound Beaſt</hi> among them, neither <hi>Engliſh</hi> nor <hi>Iriſh:</hi> For all grazing in the <hi>ſame Ground,</hi> and drinking in the ſame <hi>Pond,</hi> they had all Contracted an <hi>In-Credible</hi> Diſtemper, and indeed they ſmelt ſtrangely, and a lewd Hogo came from their very <hi>Breath.</hi> And therefore they would have no ſuch Cattle to ſtock their Ground with, and told the Farmer that he would do well to ſeparate his <hi>Iriſh</hi> from the <hi>Engliſh</hi> Cattle; for that by the <hi>Late Act</hi> of Prohibition of <hi>Iriſh</hi> Cattle, all <hi>Engliſh</hi> were to be forfeited, that ſhould be found in the ſame Herd with the <hi>Iriſh;</hi> or rather that he ſhould ſend all the <hi>Iriſh</hi> back, to ſee if their own Native Soil would Recover them. And 'tis thought he'l take their Council, for theſe and ſome other <hi>Londoners,</hi> have ſo <hi>blown</hi> upon the whole Herd; that 'tis be<g ref="char:EOLhyphen"/>lieved no <hi>Eſſex</hi> or <hi>Middleſex</hi> Graziers, nor <hi>Oxford-ſhire</hi> Butchers, nor ſcarce a Chapman in the whole Country will meddle with them; ſo that the laſt news I heard from thence it was thought the whole Herd would die in a <hi>Ditch,</hi> and be made Carrion or <hi>Hawksmeat</hi> of.</p>
+            </sp>
+            <sp>
+               <speaker>Prej.</speaker>
+               <p>What a vengance is all this ſtory of rotten Cattle and a Cock and a Bull to our Diſcourſe?</p>
+            </sp>
+            <sp>
+               <speaker>Indiff.</speaker>
+               <p>Nothing that I know of, but I love to humour the World ſometimes and talk Impertinently; But if we muſt have tother craſh about Juries, then I ſay, That if an Indict<g ref="char:EOLhyphen"/>ment be laid againſt a Man for Criminal Words, ſaid to be utter'd in a Colloquium or Diſcourſe, now the Witneſſes roundly ſwear all the Words in the Indictment, yet unleſs they will relate and ſet forth the ſubſtance of the whole talk, 'tis impoſſibe the Jury ſhould judge of the Matter, For the foregoing and ſubſequent words may render expre<g ref="char:EOLhyphen"/>ſions that are Innocent and Loyal, which taken to halfs, may be rank Treaſon: As if one ſhould ſay, to affirm the King has no more Right to the Crown of <hi>England</hi> than I have (which is the Opinion of the Jeſuits of his Majeſty, if once Excommunicated by the <hi>Pope)</hi> Is deteſtable Treaſon<g ref="char:punc">▪</g>
+                  <pb n="8" facs="tcp:102370:6"/>
+And two Men at ſome diſtance, not well hearing or remem<g ref="char:EOLhyphen"/>bring, or maliciouſly deſigning againſt his Life, ſhould ſwear—That he ſaid the King had no more Right to the Crown than he had; now that the Man did utter theſe very Words is true, but if you ask the Evidence the reſt of the Colo<g ref="char:EOLhyphen"/>quium, they ſhall tell you there was much more diſcourſe but they cannot remember it, what ſatisfaction is this to a Jury, or would it not be hard for a man to be put to hold up his Hand at the Bar, under the frightful charge of Treaſon in this Caſe. Or if a Miniſter in his Sermon, ſhould recite that of the Pſalms, <hi>The Fool hath ſaid in his Heart there is no God.</hi> Jeſuited Evidence now may come and charge him with Blaſphemy, and ſwear that he ſaid there was no God, and ask them what expreſſions beſides he uſed, may excuſe themſelves and ſay, 'tis a great while a go we cannot re<g ref="char:EOLunhyphen"/>member a whole Sermon, but this we all poſitively ſwear-He <hi>ſaid there was no God.</hi>
+               </p>
+               <p>The Inquiry of a Grand-Jury ſhould be ſuitable to their Title, a <hi>Grand</hi> Inquiry, elſe inſtead of ſerving their Country, and preſenting real Crimes, they may oppreſs the Innocent, as in the Caſe of <hi>Samuel Wright</hi> and <hi>John Good</hi> the very laſt Seſſions, <hi>Good</hi> Indicts <hi>Wright</hi> for Treaſonable Words, and ſwore the Words poſitively, but after a Grand Inquiry, the Grand-Jury found that <hi>Wright</hi> only ſpoke the Words as of others, thus <hi>they ſay, ſo and ſo,—</hi>and concluded with this<hi>—They are Rogues for ſaying it;</hi> And alſo <hi>Good</hi> at laſt confeſ<g ref="char:EOLhyphen"/>ſed that <hi>Wright</hi> was his Maſter, and corrected him for miſ<g ref="char:EOLhyphen"/>demeanors, and then to be reveng'd he comes and ſwears againſt him, which he confeſs'd he was Inſtigated to by one <hi>Powel,</hi> ſo the Grand-Jury finding it to be but Malice, re<g ref="char:EOLhyphen"/>turnd the Bill <hi>Ignoramus,</hi> whereas if they had not Exami<g ref="char:EOLhyphen"/>ned him ſtrictly, they had never diſcover'd the Intrigue, and the Maſter had cauſeleſly been brought to great Charge, Ignominy and Hazard.</p>
+            </sp>
+            <sp>
+               <speaker>Prej.</speaker>
+               <p>Well, ſtill I ſay Juries ought to go according to <hi>Evidence.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ind.</speaker>
+               <p>What is, or is not ſufficient Evidence to ſway with the Conſciences of a Jury, they themſelves are the only Judges.</p>
+            </sp>
+            <sp>
+               <pb n="9" facs="tcp:102370:6"/>
+               <speaker>Prej.</speaker>
+               <p>You mightily magnifie Juries I'le warrant you would have them ſit with their Hats on.</p>
+            </sp>
+            <sp>
+               <speaker>Indiff.</speaker>
+               <p>Truely ſince they are a neceſſary part of every Court, and have a Power veſted in them by Law, of de<g ref="char:EOLhyphen"/>termining the Lives and Eſtates of their Fellow Subjects, I know not why they ſhould ſit creeping with Cap in Hand; Nay, I conceive when Grand-Juries are forc'd (as of late, for I know no antient precedents for it) to heare and Examine Evidence <hi>in Court,</hi> if they ſhould put on their <hi>Hats,</hi> the Court cannot by Law Fine them; For by Immemorial Cu<g ref="char:EOLhyphen"/>ſtom, they have taken ſuch Examinations ſitting with their Hats on, which Conciliated a reſpect to them from the Wit<g ref="char:EOLhyphen"/>neſſes, whereas if they ſit in a Croud truckling like School<g ref="char:EOLhyphen"/>boys, the Witneſſes will not regard to Anſwer their Queſti<g ref="char:EOLhyphen"/>ons, or Diſcover the Truth. And the reaſon <hi>(as I conceive)</hi> why the Law provides that Grand-Juries ſhould take Exami<g ref="char:EOLhyphen"/>nations in private, is on purpoſe that Men or their Crimes might not be expoſed, before it appeared to a Grand Jury, that the matter ought to be Publickly Tryed; Whereas when they are compelled to take it in publick, 'tis a kind of Arraigning a Man before the Bill be found againſt him. To what purpoſe is it for the Court, to hear the Evidence gi<g ref="char:EOLhyphen"/>ven to the Grand-Jury, the Jury are upon their Oaths, and ought to follow the Dictates of their own belief and under<g ref="char:EOLhyphen"/>ſtanding, the Court have nothing to do to meddle, or inter<g ref="char:EOLhyphen"/>rupt. For they are bound by the <hi>Verdict,</hi> not by the <hi>Evidence.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Prej.</speaker>
+               <p>Well but if the Jury goes contrary to Evidence, can<g ref="char:EOLhyphen"/>not the Court Puniſh them.</p>
+            </sp>
+            <sp>
+               <speaker>Indiff.</speaker>
+               <p>Not at all, the Law has provided no puniſhment and very reaſonably, For 'tis impoſſible the Court can know that a Jury goes contrary to Evidence. But to ſatisfie you fully as to the Law in this matter I ſhall here recite an <hi>Adjudged Caſe,</hi> that of <hi>Buſhel</hi> in the Two and Twen<g ref="char:EOLhyphen"/>tieth year of His Majeſty, reported by the Learned Sir <hi>John Vaughan,</hi> whoſe Book is Licenſed by the preſent Lord Chan<g ref="char:EOLhyphen"/>celler, the Lord Chief Juſtice <hi>North</hi> and all the Judges then in <hi>England,</hi> the ſaid Caſe begins <hi>fol.</hi> 135 and continues to 150. The whole well worth reading, but I ſhall only ſelect certain paſſages.</p>
+            </sp>
+            <pb n="10" facs="tcp:102370:7"/>
+            <p>The Caſe was this, <hi>Buſhel and others of a Jury having at a Seſſions not found</hi> Pen <hi>and</hi> Mead <hi>(Two Quakers) Guilty of a Traſpaſs, Contempt, unlawful Aſſembly and Tumult, whereof they had been Indicted, were Fined Forty Pound a Man, and Committed till they ſhould pay it.</hi> Buſhel <hi>brings his</hi> Habeas Corpus, <hi>and upon the return it ap<g ref="char:EOLhyphen"/>peared he was Committed—For</hi> that contrary to Law, and againſt full and clear Evidence openly given in Court, and againſt the directions of the Court in mat<g ref="char:EOLhyphen"/>of Law, they had acquited the ſaid <hi>W. P.</hi> and <hi>W. M.</hi> to the great obſtruction of Juſtice, <hi>&amp;c.</hi>
+            </p>
+            <p>Which upon ſolemn Argument, was by the Judges re<g ref="char:EOLhyphen"/>ſolved to be an inſufficiant cauſe of Fineing and Committing them, and they were diſcharg'd, and afterwards brought Acti<g ref="char:EOLhyphen"/>ons for their Damage. The Reaſons of which Judgment are reported by Judge <hi>Vaughan,</hi> and amogſt them he uſeth theſe that follow, which I ſhall give you in his own Words.</p>
+            <p>
+               <hi>Fol.</hi> 140. One fault in the Retorn is, That the <hi>Jurors</hi> are not ſaid to have acquitted the Perſons Indicted, againſt full and manifeſt Evidence, <hi>Corruptly, and knowing the ſaid E<g ref="char:EOLhyphen"/>vidence to be full and manifeſt againſt the Perſons Indicted;</hi> for how manifeſt ſoever the Evidence was, if it were not ma<g ref="char:EOLhyphen"/>nifeſt to them, and that they Believed it ſuch, it was not <hi>a Fineable fault, nor deſerving Impriſonment;</hi> upon which difference the Law of puniſhing Jurors for falſe Verdicts principally depends.</p>
+            <p>And <hi>fol.</hi> 141. <hi>I would know</hi> whether any thing be more Common, than for two Men, Students, Barriſters, or Judges, to deduce contrary, and oppoſite Concluſions, out of the ſame Caſe in Law? And is there any difference that two Men ſhould infer diſtinct Concluſions from the ſame Teſtimony? Is any thing more known, than that the ſame Author, and place in that Author, is forceably urg'd to maintain contra<g ref="char:EOLhyphen"/>ry Concluſions, and the Deciſion hard, which is in the right? Is any thing more frequent in the Controverſies of Religion, than to preſs the ſame Texts for oppoſite Tenets? How then comes it to paſs, that two perſons may not apprehend with
+<pb n="11" facs="tcp:102370:7"/>
+Reaſon and Honeſty, what a Witneſs, or many, ſay, to prove in the underſtanding of one plainly one thing; but in the apprehenſion of the other, clearly the contrary thing, muſt therefore one of theſe Merit <hi>Fine</hi> and <hi>Impriſonment,</hi> becauſe he doth that which he cannot otherwiſe do, preſerving his Oath and Integrity? And this often is the Caſe of the Judge and the Jury.</p>
+            <p>And <hi>fol.</hi> 142 I Conclude therefore, That this Retorn, Charging the Priſoners to have acquitted <hi>P.</hi> and <hi>M.</hi> againſt full and manifeſt Evidence firſt, and next without ſaying that they did <hi>know and be<g ref="char:EOLhyphen"/>lieve that Evidence to be full and manifeſt</hi> againſt the Indicted Perſons, is no <hi>Cauſe of Fine and Impriſonment.</hi>
+            </p>
+            <p>In the Margent of that <hi>fol.</hi> 142. it is thus noted<hi>: Of this mind were ten Judges of Eleven; the Chief Baron Turnor gave no Opinion</hi> becauſe not at the Argument.</p>
+            <p>And in the ſame <hi>fol.</hi> 142. <hi>he ſaith</hi> The <hi>Verdict</hi> of a <hi>Jury,</hi> and <hi>Evidence</hi> of a <hi>Witneſs,</hi> are very <hi>different</hi> things, in the truth and falſehood of them<g ref="char:punc">▪</g> A Witneſs Swears but to what he hath <hi>heard</hi> or <hi>ſeen,</hi> generally or more largely, to what hath fallen under his ſenſes: But a <hi>Jury man</hi> ſwears to what he can Infer and Conclude from the Teſtimony of ſuch <hi>Witneſſes,</hi> by the Act and Force of his <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding,</hi> to be the Fact inquired after, which differs nothing in Reaſon, though much in the <hi>Puniſhment,</hi> from what a Judge, out of various Caſes conſider'd by him, infers to be the Law in the queſtion before him.</p>
+            <p>If the meaning of theſe words, <hi>finding</hi> againſt <hi>the direction of the Court, in matter of Law,</hi> be, That if the Judge having heard the Evidence given in Court, (for he knows no other) ſhall tell the <hi>Ju<g ref="char:EOLhyphen"/>ry</hi> upon this Evidence, the Law is for the Plaintiff, or for the De<g ref="char:EOLhyphen"/>fendant, and you are under the pain of Fine and Impriſonment to find accordingly; and the Jury ought of duty ſo to do: Then Every Man ſees that the Jury is but a troubleſome delay, great Charge, and no uſe in determining right and wrong, and therefore the Tryals by them, may be better Aboliſhed than Continued, which were a <hi>ſtrange New found Concluſion,</hi> after a <hi>Tryal ſo Celebrated for many hun<g ref="char:EOLhyphen"/>dred years.</hi>
+            </p>
+            <p>It is true, if the Jury were to have <hi>no other</hi> Evidence for the Fact, but what is depoſed in Court, the Judge might know their Evidence, and the Fact from it, equally as they, and ſo direct what the Law were in the Caſe, though even then <hi>the Judge and Jury</hi> might honeſtly differ in the Reſult from the Evidence, as well as two Judges may, which often happens. But the Evidence which the Jury have of the Fact, is much otherwiſe then that: For,</p>
+            <pb n="12" facs="tcp:102370:8"/>
+            <p n="1">1. Being returned of the Vicinage where the Cauſe of Action ariſeth, the Law ſuppoſeth them thence to have ſufficient Know<g ref="char:EOLhyphen"/>ledge to Try the Matter in Iſſue (and ſo they muſt) though no Evi<g ref="char:EOLhyphen"/>dence were given on either Side in Court; but to this Evidence the Judge is a Stranger.</p>
+            <p n="2">2. They may have Evidence from their own Perſonal Knowledge, by which they may be aſſured, and ſometimes are, that what is de<g ref="char:EOLhyphen"/>poſed in Court is abſolutely falſe; but to this the Judge is a Stran<g ref="char:EOLhyphen"/>ger, and he knows no more of the Fact than he hath learned in Court, and perhaps by falſe Depoſitions; and conſequently, knows no<g ref="char:EOLhyphen"/>thing.</p>
+            <p n="3">3. The Jury may know the Witneſſes to be <hi>Stigmatized</hi> and <hi>In<g ref="char:EOLhyphen"/>famous,</hi> which may be unknown to the Parties, and conſequently to the Court.</p>
+            <p>
+               <hi>Fol.</hi> 148. To what end is the Jury to be Returned out of the Vicinage where the Cauſe of Action ariſeth? To what end muſt Hundredors be of the Jury, whom the Law ſuppoſeth to have neerer knowledge of the Fact than thoſe of the Vicinage in general? To what end are they Challenged ſo ſcrupulouſly to the Array and Poll? To what end muſt they have ſuch a certain Free-hold, and be <hi>Probi &amp; Legales homines,</hi> and not of affinity with the Party concerned? To what end muſt they have in many Caſes the View for their ex<g ref="char:EOLhyphen"/>acter Information chieſly? To what end muſt they undergo the hea<g ref="char:EOLhyphen"/>vy Puniſhment of the Villainous Judgment, if after all this they im<g ref="char:EOLhyphen"/>plicitly muſt give a Verdict by the Dictates and Authority of another Man, under Pains of Fines and Impriſonment, when ſworn to do it according to the beſt of their <hi>own knowledge?</hi>
+            </p>
+            <p>A Man cannot ſee by anothers Eye, nor hear by anothers Ear; no more can a Man conclude or infer the thing to be reſolved, by ano<g ref="char:EOLhyphen"/>thers Underſtanding or Reaſoning<hi>:</hi> And though the Verdict be right the Jury give, yet they being not aſſured that it is ſo from their own Underſtanding, are forſworn, at leaſt <hi>in Foro Conſcientiae.</hi>
+            </p>
+            <p>
+               <hi>Fol.</hi> 149. And it is abſurd to Fine a Jury for finding againſt their Evidence, when the Judge knows but part of it; for the better and greater part of the Evidence may be wholly unknown to him; and this may happen in moſt Caſes, and often doth.</p>
+            <p>THUS far Judge <hi>Vaughan,</hi> whoſe Words I have faithfully recited; which, I conceive, will be ſufficient to ſilence this Controverſie for ever, and ſtop the Mouths of all thoſe ſcandalous <hi>Obſervators, Hera<g ref="char:EOLhyphen"/>clitus</hi>'s, and other yelping Curs, which ſo impudently have preſu<g ref="char:EOLhyphen"/>med to Bark or <hi>Hiſs</hi> againſt the Legal Verdicts of ſome late Grand-Juries.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>William Inghall</hi> the Elder, 1681.</p>
+            <pb facs="tcp:102370:9" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
